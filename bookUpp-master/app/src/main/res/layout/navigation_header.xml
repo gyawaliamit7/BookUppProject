@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="140dp"
+    android:background="@color/colorPrimary"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/bookUpp"
+        android:layout_width="115dp"
+        android:layout_height="38dp"
+        android:text="TextView"
+        android:textColor="#ffffff"
+        android:textSize="24dp" />
+</LinearLayout>
